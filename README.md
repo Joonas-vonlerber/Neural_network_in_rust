@@ -1,6 +1,6 @@
-# Rusticneurons
+# Rustic-Neurons
 
-A machinelearning package for Rust with neural networks :D. Linear algebra is based on the crate [nalgebra](https://github.com/dimforge/nalgebra)
+A machine learning package for Rust with neural networks.
 
 It is not currently a public crate, but maybe in the future?
 
